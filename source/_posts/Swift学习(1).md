@@ -2,7 +2,7 @@
 title: Swift学习(1)
 date: 2017-09-10 09:35:31
 tags: Swift
-categories: Mac相关
+categories: Swift
 ---
 
 <blockquote>简单高效</endblockquote>
